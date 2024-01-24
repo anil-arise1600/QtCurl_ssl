@@ -6,7 +6,8 @@ Example of cURL using SSL Certificate verification with apache, https
 ## Dependencies
 1. [Apache2](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)
 2. libssl1.0-dev
-3. OpenSSL - Optional
+3. curl & libcurl
+4. OpenSSL - Optional
 
 
 ## Apache2 site configuration
